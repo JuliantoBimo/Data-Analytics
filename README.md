@@ -21,7 +21,7 @@ Proyek ini dibagi menjadi dua modul interaktif utama (Operasional & Finansial):
 
 ### Halaman 1: Operasional & Kinerja Unit (Operational Excellence)
 
-
+![Operational Excellence Dashboard](Operational%20Excellence%20Dashboard.png)
 
 #### 1. Key Point Indicators (KPI)
 * **Total Unit Entry Vs Target:** Mencapai **967 unit**, melampaui target diler sebesar 412 unit (**+134.71%**).
@@ -45,6 +45,8 @@ Proyek ini dibagi menjadi dua modul interaktif utama (Operasional & Finansial):
 ---
 
 ### Halaman 2: Analisis Finansial & Laba Kotor (Financial Performance)
+
+![Financial Dashboard](Financial%20Dashboard.png)
 
 #### 1. Financial High-Level Metrics
 * **Total Revenue:** Menghasilkan **Rp5.015.272.585** (Lima Miliar Rupiah+).
