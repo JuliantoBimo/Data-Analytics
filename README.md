@@ -46,7 +46,7 @@ Proyek ini dibagi menjadi dua modul interaktif utama (Operasional & Finansial):
 
 ### Halaman 2: Analisis Finansial & Laba Kotor (Financial Performance)
 
-![Financial Dashboard](Financial%20Dashboard.png)
+![Financial Dashboard](Financial%20Performance.png)
 
 #### 1. Financial High-Level Metrics
 * **Total Revenue:** Menghasilkan **Rp5.015.272.585** (Lima Miliar Rupiah+).
